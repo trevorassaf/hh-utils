@@ -1,9 +1,9 @@
 {
-  "name": "trevorassaf/hh_utils",
+  "name": "trevorassaf/hh-utils",
   "type": "library",
   "description": "HHVM utility classes",
   "keywords": ["hhvm", "hack", "utility"],
-  "homepage": "https://github.com/trevorassaf/hh_utils/",
+  "homepage": "https://github.com/trevorassaf/hh-utils/",
   "autoload": {
     "classmap": ["Builder.hh"]
   },
